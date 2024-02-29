@@ -6,3 +6,6 @@ Mapping Protein Dynamics at High-Resolution with Temperature-Jump X-ray Crystall
 
 # Citation
 doi: https://doi.org/10.1101/2022.06.10.495662
+
+# For updated IADDAT code please the following repository:
+https://github.com/mthompson-lab/map_tools
